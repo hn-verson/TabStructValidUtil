@@ -4,3 +4,4 @@ lib/
 *.jar
 .classpath
 .project
+.settings
